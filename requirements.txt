@@ -1,0 +1,2 @@
+# No external Python packages required for the basic demo.
+# Python 3.10+ recommended.
